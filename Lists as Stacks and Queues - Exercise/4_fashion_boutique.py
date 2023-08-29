@@ -14,4 +14,3 @@ for y in range(len(clothes.copy())):
     else:
         sum_of_values += current_piece_value
 print(number_of_racks)
-

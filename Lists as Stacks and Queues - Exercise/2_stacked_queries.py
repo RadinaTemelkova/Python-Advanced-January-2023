@@ -24,4 +24,3 @@ for index in range(len(numbers_stack)-1, -1, -1):
     list_of_elements.append(str(element))
 
 print(", ".join(list_of_elements))
-

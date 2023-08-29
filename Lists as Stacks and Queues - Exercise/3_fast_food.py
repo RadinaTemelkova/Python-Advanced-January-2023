@@ -20,4 +20,3 @@ if orders_complete:
 else:
     orders_deque = deque(map(str, orders_deque))
     print(f"Orders left: {' '.join(orders_deque)}")
-
